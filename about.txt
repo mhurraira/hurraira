@@ -1,0 +1,2 @@
+this is my first project for learning git and github
+Remove-Item -Recurse -Force .git
